@@ -1,5 +1,8 @@
-## Hi there 👋
+# About me
+Hi there 👋 My name is Josef, an aspiring software engineer!
 
+## 🌱 What I am Currently Doing...
+- Currently studying Computer Science in UTRGV: The University of Texas Rio Grande Valley
 <!--
 **Josef-Larrazabal/Josef-Larrazabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
