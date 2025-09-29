@@ -3,6 +3,10 @@ Hi there 👋 My name is Josef, an aspiring software engineer!
 
 ## 🌱 What I am Currently Doing...
 - Currently studying Computer Science in UTRGV: The University of Texas Rio Grande Valley
+
+## 📫 Connect With Me On...
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/joseflarrazabal)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:joseflarrazabal1@gmail.com)
 <!--
 **Josef-Larrazabal/Josef-Larrazabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
